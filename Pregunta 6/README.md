@@ -1,0 +1,1 @@
+Creemos que se puede mejorar muchísimo. En nuestro caso no teníamos un Kd y por lo tanto exiistía overshoot. 
