@@ -43,7 +43,7 @@ for volt in volts:
 
     plt.plot(tiempo,salida_motor1)
     plt.xlabel("Tiempo")
-    plt.ylabel("m/s")
+    plt.ylabel("RPM")
     plt.title("Salida Velocidad")
     name_fig = 'gráficos/Salida_' + str(volt) + 'V_M1_G4.png'
     plt.savefig(name_fig)
@@ -51,7 +51,7 @@ for volt in volts:
 
     plt.plot(tiempo,salida_motor2)
     plt.xlabel("Tiempo")
-    plt.ylabel("m/s")
+    plt.ylabel("RPM")
     plt.title("Salida Velocidad")
     name_fig = 'gráficos/Salida_' + str(volt) + 'V_M2_G4.png'
     plt.savefig(name_fig)
