@@ -23,8 +23,8 @@ ref = 250    # reference
 y0 = 0.0    # initial condition for position
 dy0 = 0.0   # initial condition for velocity
 c0 = 0.0    # initial control
-Kp = 0.3  # controller: proportional
-Ki = 1.2 # controller: integrative
+Kp = 0.21  # controller: proportional
+Ki = 0.1 # controller: integrative
 Kd = 0 # controller: derivative
 
 # Variables
